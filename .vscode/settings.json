@@ -1,0 +1,9 @@
+{
+    "[vue]": {
+        "editor.formatOnSave": true,
+    },
+    "[typescript]": {
+        "editor.formatOnSave": true
+    },
+    "vetur.validation.style": false,
+}
